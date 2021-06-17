@@ -176,3 +176,163 @@ introduction_events.7 = { # Russia
 		name = introduction_events.7.a
 		}
 }
+introduction_events.8 = { # Lucca
+	
+	type = country_event
+	title = "introduction_events.8.t"
+	desc = "introduction_events.8.desc"
+	picture = lucca_start
+	goto_location = root
+	trigger = {
+		is_ai = no
+		tag = LUC
+	}
+	
+	option = {
+		name = introduction_events.8.a
+		}
+}
+introduction_events.9 = { # Papal States
+	
+	type = country_event
+	title = "introduction_events.9.t"
+	desc = "introduction_events.9.desc"
+	picture = papal_start
+	goto_location = root
+	trigger = {
+		is_ai = no
+		tag = PAP
+	}
+	
+	option = {
+		name = introduction_events.9.a
+		}
+}
+introduction_events.10 = { # Parma
+	
+	type = country_event
+	title = "introduction_events.10.t"
+	desc = "introduction_events.10.desc"
+	picture = papal_start
+	goto_location = root
+	trigger = {
+		is_ai = no
+		tag = PRM
+	}
+	
+	option = {
+		name = introduction_events.10.a
+		}
+}
+introduction_events.11 = { # Modena
+	
+	type = country_event
+	title = "introduction_events.11.t"
+	desc = "introduction_events.11.desc"
+	picture = papal_start
+	goto_location = root
+	trigger = {
+		is_ai = no
+		tag = MOD
+	}
+	
+	option = {
+		name = introduction_events.11.a
+		}
+}
+introduction_events.12 = { # Massa
+	
+	type = country_event
+	title = "introduction_events.12.t"
+	desc = "introduction_events.12.desc"
+	picture = papal_start
+	goto_location = root
+	trigger = {
+		is_ai = no
+		tag = MSS
+	}
+	
+	option = {
+		name = introduction_events.12.a
+		}
+}
+introduction_events.13 = { # Tuscany
+	
+	type = country_event
+	title = "introduction_events.13.t"
+	desc = "introduction_events.13.desc"
+	picture = papal_start
+	goto_location = root
+	trigger = {
+		is_ai = no
+		tag = TUS
+	}
+	
+	option = {
+		name = introduction_events.14.a
+		}
+}
+introduction_events.14 = { # Sardinia-Piedmont
+	
+	type = country_event
+	title = "introduction_events.14.t"
+	desc = "introduction_events.14.desc"
+	picture = papal_start
+	goto_location = root
+	trigger = {
+		is_ai = no
+		tag = SAR
+	}
+	
+	option = {
+		name = introduction_events.14.a
+		}
+}
+introduction_events.15 = { # Naples
+	
+	type = country_event
+	title = "introduction_events.15.t"
+	desc = "introduction_events.15.desc"
+	picture = papal_start
+	goto_location = root
+	trigger = {
+		is_ai = no
+		tag = NAP
+	}
+	
+	option = {
+		name = introduction_events.15.a
+		}
+}
+introduction_events.16 = { # Sicily
+	
+	type = country_event
+	title = "introduction_events.16.t"
+	desc = "introduction_events.16.desc"
+	picture = papal_start
+	goto_location = root
+	trigger = {
+		is_ai = no
+		tag = SIC
+	}
+	
+	option = {
+		name = introduction_events.16.a
+		}
+}
+introduction_events.17 = { # Lombardy-Venetia
+	
+	type = country_event
+	title = "introduction_events.17.t"
+	desc = "introduction_events.17.desc"
+	picture = papal_start
+	goto_location = root
+	trigger = {
+		is_ai = no
+		tag = LBV
+	}
+	
+	option = {
+		name = introduction_events.17.a
+		}
+}
